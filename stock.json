@@ -1,0 +1,30 @@
+{
+  "ultima_actualizacion": "14 de octubre 2025",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Stitch PVC",
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "nombre": "Percheros de pared",
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "nombre": "Mesa de luz flotante",
+      "stock": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Gato abstracto",
+      "stock": 0
+    },
+    {
+      "id": 5,
+      "nombre": "Cartel estilo patente",
+      "stock": 8
+    }
+  ]
+}
