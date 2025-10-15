@@ -24,7 +24,7 @@
       "nombre": "Mesa de luz flotante",
       "descripcion": "Mesa de luz flotante con diseño minimalista y elegante.",
       "precio": 2500,
-      "imagen": "img/mesa.jpeg",
+      "imagen": "img/mesaluz.jpeg",
       "stock": 3,
       "en_stock": true
     },
