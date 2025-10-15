@@ -4,27 +4,47 @@
     {
       "id": 1,
       "nombre": "Stitch PVC",
-      "stock": 12
+      "descripcion": "Figura de Stitch en PVC, ideal para decorar tu espacio.",
+      "precio": 1200,
+      "imagen": "img/stitch.jpeg",
+      "stock": 12,
+      "en_stock": true
     },
     {
       "id": 2,
       "nombre": "Percheros de pared",
-      "stock": 5
+      "descripcion": "Percheros resistentes para colgar ropa u otros objetos.",
+      "precio": 800,
+      "imagen": "img/perchero.jpeg",
+      "stock": 5,
+      "en_stock": true
     },
     {
       "id": 3,
       "nombre": "Mesa de luz flotante",
-      "stock": 3
+      "descripcion": "Mesa de luz flotante con diseño minimalista y elegante.",
+      "precio": 2500,
+      "imagen": "img/mesa.jpeg",
+      "stock": 3,
+      "en_stock": true
     },
     {
       "id": 4,
       "nombre": "Gato abstracto",
-      "stock": 0
+      "descripcion": "Figura de gato en estilo abstracto, decoración artística.",
+      "precio": 1500,
+      "imagen": "img/gato.jpeg",
+      "stock": 0,
+      "en_stock": false
     },
     {
       "id": 5,
       "nombre": "Cartel estilo patente",
-      "stock": 8
+      "descripcion": "Cartel decorativo con diseño de patente vintage.",
+      "precio": 950,
+      "imagen": "img/cartel.jpeg",
+      "stock": 8,
+      "en_stock": true
     }
   ]
 }
