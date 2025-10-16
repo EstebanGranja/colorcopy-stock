@@ -6,7 +6,7 @@
       "productos": [
         {
           "id": 1,
-          "nombre": "Cuadro decorativo Stitch",
+          "nombre": "Gigantografía Chicas Superpoderosas",
           "descripcion": "Cuadro MDF o PVC, diferentes tamaños y colores.",
           "imagenes": {
             "Azul": "img/decor1_azul.jpg",
@@ -28,7 +28,7 @@
         },
         {
           "id": 2,
-          "nombre": "Cuadro simple sin variantes",
+          "nombre": "Gigantografía Stitch",
           "descripcion": "Ejemplo sin colores ni materiales",
           "imagen": "img/stitch.jpeg",
           "precios": {"Normal": 2000},
@@ -47,13 +47,13 @@
           "colores": ["Full Color"],
           "tamanos": {
             "Pequeño": "img/deco_pequeno.jpg",
-            "Normal": "img/deco_normal.jpg",
-            "Grande": "img/deco_grande.jpg"
+            "Normal": "img/stitch.jpg",
+            "Grande": "img/stitch_big.jpg"
           },
           "precios": {"Pequeño": 7000, "Normal": 9500, "Grande": 13000},
           "materiales": {
-            "MDF": "img/material_mdf.jpg",
-            "PVC espumado": "img/material_pvc.jpg"
+            "MDF": "img/stitch_azul.jpg",
+            "PVC espumado": "img/stitch_negro.jpg"
           },
           "stock": 4
         }
@@ -69,7 +69,7 @@
           "descripcion": "Material MDF o madera de pino, distintos colores.",
           "colores": ["Natural", "Blanco"],
           "imagenes": {
-            "Natural": "img/material_madera.jpg",
+            "Natural": "img/mesaluz.jpg",
             "Blanco": "img/mesa.jpg"
           },
           "materiales": {
