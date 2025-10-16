@@ -5,20 +5,34 @@
       "imagen": "img/decoracion.jpg",
       "productos": [
         {
-          "id": 101,
-          "nombre": "Lámina decorativa Stitch",
-          "descripcion": "Lámina en MDF o PVC espumado, ideal para enmarcar.",
-          "imagen": "img/stitch.jpeg",
+          "id": 1,
+          "nombre": "Cuadro decorativo Stitch",
+          "descripcion": "Cuadro MDF o PVC, diferentes tamaños y colores.",
           "imagenes": {
-            "Azul": "img/stitch_azul.jpeg",
-            "Negro": "img/stitch_negro.jpeg"
+            "Azul": "img/decor1_azul.jpg",
+            "Rojo": "img/decor1_rojo.jpg",
+            "Verde": "img/decor1_verde.jpg"
           },
-          "colores": ["Azul", "Negro"],
-          "tamanos": ["30x30", "60x60", "80x80"],
-          "precios": {"30x30": 2000, "60x60": 3500, "80x80": 5000},
-          "materiales": ["MDF", "PVC espumado"],
-          "terminaciones": ["Pintado", "Ploteado"],
+          "colores": ["Azul", "Rojo", "Verde"],
+          "tamanos": {
+            "Pequeño": "img/deco_pequeno.jpg",
+            "Normal": "img/deco_normal.jpg",
+            "Grande": "img/deco_grande.jpg"
+          },
+          "precios": {"Pequeño": 2500, "Normal": 3500, "Grande": 5000},
+          "materiales": {
+            "MDF": "img/material_mdf.jpg",
+            "PVC espumado": "img/material_pvc.jpg"
+          },
           "stock": 5
+        },
+        {
+          "id": 2,
+          "nombre": "Cuadro simple sin variantes",
+          "descripcion": "Ejemplo sin colores ni materiales",
+          "imagen": "img/stitch.jpeg",
+          "precios": {"Normal": 2000},
+          "stock": 2
         }
       ]
     },
@@ -27,31 +41,21 @@
       "imagen": "img/stitch.jpeg",
       "productos": [
         {
-          "id": 201,
-          "nombre": "Gigantografía Stitch PVC",
-          "descripcion": "Gigantografía en PVC espumado o MDF, impresión alta resolución.",
-          "imagen": "img/stitch_big.jpeg",
+          "id": 3,
+          "nombre": "Gigantografía Full Color",
+          "descripcion": "Impresión HD en PVC espumado o MDF.",
           "colores": ["Full Color"],
-          "tamanos": ["80x120", "100x150", "120x180"],
-          "precios": {"80x120": 8000, "100x150": 12000, "120x180": 17000},
-          "materiales": ["MDF", "PVC espumado"],
-          "stock": 10
-        }
-      ]
-    },
-    {
-      "id": "Carteleria",
-      "imagen": "img/cartel.jpg",
-      "productos": [
-        {
-          "id": 301,
-          "nombre": "Cartel de fachada",
-          "descripcion": "Cartel resistente para exteriores.",
-          "imagen": "img/cartel1.jpg",
-          "colores": ["Blanco", "Negro"],
-          "tamanos": ["60x40", "80x60"],
-          "precios": {"60x40": 4500, "80x60": 6500},
-          "stock": 6
+          "tamanos": {
+            "Pequeño": "img/deco_pequeno.jpg",
+            "Normal": "img/deco_normal.jpg",
+            "Grande": "img/deco_grande.jpg"
+          },
+          "precios": {"Pequeño": 7000, "Normal": 9500, "Grande": 13000},
+          "materiales": {
+            "MDF": "img/material_mdf.jpg",
+            "PVC espumado": "img/material_pvc.jpg"
+          },
+          "stock": 4
         }
       ]
     },
@@ -60,15 +64,37 @@
       "imagen": "img/mesa.jpg",
       "productos": [
         {
-          "id": 401,
+          "id": 4,
           "nombre": "Mesa de luz personalizada",
-          "descripcion": "Mesa de luz en MDF o madera de pino, con opción de pintar o ploteado.",
-          "imagen": "img/mesa.jpg",
-          "colores": ["Natural", "Blanco", "Negro"],
-          "tamanos": ["50x40", "60x45"],
-          "precios": {"50x40": 7000, "60x45": 9000},
-          "materiales": ["Madera de pino", "MDF"],
+          "descripcion": "Material MDF o madera de pino, distintos colores.",
+          "colores": ["Natural", "Blanco"],
+          "imagenes": {
+            "Natural": "img/material_madera.jpg",
+            "Blanco": "img/mesa.jpg"
+          },
+          "materiales": {
+            "Madera de pino": "img/material_madera.jpg",
+            "MDF": "img/material_mdf.jpg"
+          },
+          "tamanos": {
+            "Normal": "img/mesa.jpg"
+          },
+          "precios": {"Normal": 8500},
           "stock": 3
+        }
+      ]
+    },
+    {
+      "id": "Carteleria",
+      "imagen": "img/cartel.jpg",
+      "productos": [
+        {
+          "id": 5,
+          "nombre": "Cartel simple",
+          "descripcion": "Ejemplo sin materiales ni colores",
+          "imagen": "img/cartel1.jpg",
+          "precios": {"Normal": 4000},
+          "stock": 5
         }
       ]
     }
