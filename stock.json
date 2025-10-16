@@ -7,55 +7,63 @@
         {
           "id": 1,
           "nombre": "Gigantografía Chicas Superpoderosas",
-          "descripcion": "Cuadro MDF o PVC, diferentes tamaños y colores.",
-          "imagenes": {
-            "Azul": "img/decor1_azul.jpg",
-            "Rojo": "img/decor1_rojo.jpg",
-            "Verde": "img/decor1_verde.jpg"
-          },
+          "descripcion": "Cuadro decorativo personalizado con las Chicas Superpoderosas. Ideal para dormitorios infantiles.",
+          "imagen": "img/decor1_azul.jpg",
           "colores": ["Azul", "Rojo", "Verde"],
-          "tamanos": {
-            "Pequeño": "img/deco_pequeno.jpg",
-            "Normal": "img/deco_normal.jpg",
-            "Grande": "img/deco_grande.jpg"
-          },
+          "tamanos": ["Pequeño", "Normal", "Grande"],
           "precios": {"Pequeño": 2500, "Normal": 3500, "Grande": 5000},
-          "materiales": {
-            "MDF": "img/material_mdf.jpg",
-            "PVC espumado": "img/material_pvc.jpg"
-          },
+          "materiales": ["MDF", "PVC espumado"],
           "stock": 5
         },
         {
           "id": 2,
           "nombre": "Gigantografía Stitch",
-          "descripcion": "Ejemplo sin colores ni materiales",
+          "descripcion": "Divertido diseño de Stitch para decorar cualquier espacio.",
           "imagen": "img/stitch.jpeg",
-          "precios": {"Normal": 2000},
-          "stock": 2
+          "colores": ["Multicolor"],
+          "tamanos": ["Pequeño", "Normal", "Grande"],
+          "precios": {"Pequeño": 2000, "Normal": 3000, "Grande": 4500},
+          "materiales": ["MDF", "PVC espumado"],
+          "stock": 8
+        },
+        {
+          "id": 3,
+          "nombre": "Cuadro Abstracto Moderno",
+          "descripcion": "Diseño abstracto contemporáneo para oficinas o living.",
+          "imagen": "img/abstracto.jpg",
+          "colores": ["Negro/Blanco", "Color"],
+          "tamanos": ["Normal", "Grande"],
+          "precios": {"Normal": 4000, "Grande": 6000},
+          "materiales": ["MDF", "PVC espumado"],
+          "stock": 3
         }
       ]
     },
     {
       "id": "Gigantografias",
-      "imagen": "img/stitch.jpeg",
+      "imagen": "img/gigantografia.jpg",
       "productos": [
         {
-          "id": 3,
+          "id": 4,
           "nombre": "Gigantografía Full Color",
-          "descripcion": "Impresión HD en PVC espumado o MDF.",
+          "descripcion": "Impresión HD en alta calidad para interiores y exteriores.",
+          "imagen": "img/giganto_full.jpg",
           "colores": ["Full Color"],
-          "tamanos": {
-            "Pequeño": "img/deco_pequeno.jpg",
-            "Normal": "img/stitch.jpg",
-            "Grande": "img/stitch_big.jpg"
-          },
-          "precios": {"Pequeño": 7000, "Normal": 9500, "Grande": 13000},
-          "materiales": {
-            "MDF": "img/stitch_azul.jpg",
-            "PVC espumado": "img/stitch_negro.jpg"
-          },
+          "tamanos": ["Pequeño", "Normal", "Grande", "Extra Grande"],
+          "precios": {"Pequeño": 7000, "Normal": 9500, "Grande": 13000, "Extra Grande": 18000},
+          "materiales": ["MDF", "PVC espumado"],
           "stock": 4
+        },
+        {
+          "id": 5,
+          "nombre": "Gigantografía Corporativa",
+          "descripcion": "Perfecta para logos empresariales y mensajes institucionales.",
+          "imagen": "img/giganto_corp.jpg",
+          "colores": ["Personalizado"],
+          "tamanos": ["Normal", "Grande", "Extra Grande"],
+          "precios": {"Normal": 8500, "Grande": 12000, "Extra Grande": 16000},
+          "materiales": ["MDF", "PVC espumado"],
+          "stock": 6
         }
       ]
     },
@@ -64,23 +72,37 @@
       "imagen": "img/mesa.jpg",
       "productos": [
         {
-          "id": 4,
-          "nombre": "Mesa de luz personalizada",
-          "descripcion": "Material MDF o madera de pino, distintos colores.",
-          "colores": ["Natural", "Blanco"],
-          "imagenes": {
-            "Natural": "img/mesaluz.jpg",
-            "Blanco": "img/mesa.jpg"
-          },
-          "materiales": {
-            "Madera de pino": "img/material_madera.jpg",
-            "MDF": "img/material_mdf.jpg"
-          },
-          "tamanos": {
-            "Normal": "img/mesa.jpg"
-          },
+          "id": 6,
+          "nombre": "Mesa de Luz Personalizada",
+          "descripcion": "Mesa de noche con diseño único y personalizado.",
+          "imagen": "img/mesaluz.jpg",
+          "colores": ["Natural", "Blanco", "Negro"],
+          "tamanos": ["Normal"],
           "precios": {"Normal": 8500},
+          "materiales": ["Madera de pino", "MDF"],
           "stock": 3
+        },
+        {
+          "id": 7,
+          "nombre": "Estantería Modular",
+          "descripcion": "Estantería adaptable a diferentes espacios y necesidades.",
+          "imagen": "img/estanteria.jpg",
+          "colores": ["Natural", "Blanco"],
+          "tamanos": ["Pequeño", "Normal", "Grande"],
+          "precios": {"Pequeño": 6000, "Normal": 9000, "Grande": 12000},
+          "materiales": ["Madera de pino", "MDF"],
+          "stock": 4
+        },
+        {
+          "id": 8,
+          "nombre": "Mesa Ratona",
+          "descripcion": "Mesa baja para living con terminación premium.",
+          "imagen": "img/mesa_ratona.jpg",
+          "colores": ["Natural", "Negro"],
+          "tamanos": ["Normal", "Grande"],
+          "precios": {"Normal": 11000, "Grande": 15000},
+          "materiales": ["Madera de pino", "MDF"],
+          "stock": 2
         }
       ]
     },
@@ -89,12 +111,32 @@
       "imagen": "img/cartel.jpg",
       "productos": [
         {
-          "id": 5,
-          "nombre": "Cartel simple",
-          "descripcion": "Ejemplo sin materiales ni colores",
+          "id": 9,
+          "nombre": "Cartel Simple para Negocio",
+          "descripcion": "Cartel básico para identificación de locales comerciales.",
           "imagen": "img/cartel1.jpg",
-          "precios": {"Normal": 4000},
-          "stock": 5
+          "tamanos": ["Pequeño", "Normal", "Grande"],
+          "precios": {"Pequeño": 2000, "Normal": 4000, "Grande": 6000},
+          "stock": 10
+        },
+        {
+          "id": 10,
+          "nombre": "Cartel Luminoso",
+          "descripcion": "Cartel con iluminación LED para mayor visibilidad.",
+          "imagen": "img/cartel_luminoso.jpg",
+          "tamanos": ["Normal", "Grande"],
+          "precios": {"Normal": 8000, "Grande": 12000},
+          "stock": 3
+        },
+        {
+          "id": 11,
+          "nombre": "Letras Corpóreas",
+          "descripcion": "Letras 3D para fachadas y interiores.",
+          "imagen": "img/letras_corporeas.jpg",
+          "colores": ["Blanco", "Negro", "Plateado"],
+          "tamanos": ["20cm", "30cm", "40cm"],
+          "precios": {"20cm": 1500, "30cm": 2500, "40cm": 3500},
+          "stock": 7
         }
       ]
     }
