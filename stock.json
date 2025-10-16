@@ -9,6 +9,11 @@
           "nombre": "Gigantografía Chicas Superpoderosas",
           "descripcion": "Cuadro decorativo personalizado con las Chicas Superpoderosas. Ideal para dormitorios infantiles.",
           "imagen": "img/decor1_azul.jpg",
+          "imagenes": {
+            "Azul": "img/decor1_azul.jpg",
+            "Rojo": "img/decor1_rojo.jpg",
+            "Verde": "img/decor1_verde.jpg"
+          },
           "colores": ["Azul", "Rojo", "Verde"],
           "tamanos": ["Pequeño", "Normal", "Grande"],
           "precios": {"Pequeño": 2500, "Normal": 3500, "Grande": 5000},
@@ -20,6 +25,9 @@
           "nombre": "Gigantografía Stitch",
           "descripcion": "Divertido diseño de Stitch para decorar cualquier espacio.",
           "imagen": "img/stitch.jpeg",
+          "imagenes": {
+            "Multicolor": "img/stitch.jpeg"
+          },
           "colores": ["Multicolor"],
           "tamanos": ["Pequeño", "Normal", "Grande"],
           "precios": {"Pequeño": 2000, "Normal": 3000, "Grande": 4500},
@@ -30,7 +38,11 @@
           "id": 3,
           "nombre": "Cuadro Abstracto Moderno",
           "descripcion": "Diseño abstracto contemporáneo para oficinas o living.",
-          "imagen": "img/abstracto.jpg",
+          "imagen": "img/abstracto_color.jpg",
+          "imagenes": {
+            "Negro/Blanco": "img/abstracto_bn.jpg",
+            "Color": "img/abstracto_color.jpg"
+          },
           "colores": ["Negro/Blanco", "Color"],
           "tamanos": ["Normal", "Grande"],
           "precios": {"Normal": 4000, "Grande": 6000},
@@ -48,6 +60,9 @@
           "nombre": "Gigantografía Full Color",
           "descripcion": "Impresión HD en alta calidad para interiores y exteriores.",
           "imagen": "img/giganto_full.jpg",
+          "imagenes": {
+            "Full Color": "img/giganto_full.jpg"
+          },
           "colores": ["Full Color"],
           "tamanos": ["Pequeño", "Normal", "Grande", "Extra Grande"],
           "precios": {"Pequeño": 7000, "Normal": 9500, "Grande": 13000, "Extra Grande": 18000},
@@ -59,6 +74,9 @@
           "nombre": "Gigantografía Corporativa",
           "descripcion": "Perfecta para logos empresariales y mensajes institucionales.",
           "imagen": "img/giganto_corp.jpg",
+          "imagenes": {
+            "Personalizado": "img/giganto_corp.jpg"
+          },
           "colores": ["Personalizado"],
           "tamanos": ["Normal", "Grande", "Extra Grande"],
           "precios": {"Normal": 8500, "Grande": 12000, "Extra Grande": 16000},
@@ -75,7 +93,12 @@
           "id": 6,
           "nombre": "Mesa de Luz Personalizada",
           "descripcion": "Mesa de noche con diseño único y personalizado.",
-          "imagen": "img/mesaluz.jpg",
+          "imagen": "img/mesaluz_natural.jpg",
+          "imagenes": {
+            "Natural": "img/mesaluz_natural.jpg",
+            "Blanco": "img/mesaluz_blanco.jpg",
+            "Negro": "img/mesaluz_negro.jpg"
+          },
           "colores": ["Natural", "Blanco", "Negro"],
           "tamanos": ["Normal"],
           "precios": {"Normal": 8500},
@@ -86,7 +109,11 @@
           "id": 7,
           "nombre": "Estantería Modular",
           "descripcion": "Estantería adaptable a diferentes espacios y necesidades.",
-          "imagen": "img/estanteria.jpg",
+          "imagen": "img/estanteria_natural.jpg",
+          "imagenes": {
+            "Natural": "img/estanteria_natural.jpg",
+            "Blanco": "img/estanteria_blanco.jpg"
+          },
           "colores": ["Natural", "Blanco"],
           "tamanos": ["Pequeño", "Normal", "Grande"],
           "precios": {"Pequeño": 6000, "Normal": 9000, "Grande": 12000},
@@ -97,7 +124,11 @@
           "id": 8,
           "nombre": "Mesa Ratona",
           "descripcion": "Mesa baja para living con terminación premium.",
-          "imagen": "img/mesa_ratona.jpg",
+          "imagen": "img/mesa_ratona_natural.jpg",
+          "imagenes": {
+            "Natural": "img/mesa_ratona_natural.jpg",
+            "Negro": "img/mesa_ratona_negro.jpg"
+          },
           "colores": ["Natural", "Negro"],
           "tamanos": ["Normal", "Grande"],
           "precios": {"Normal": 11000, "Grande": 15000},
@@ -132,7 +163,12 @@
           "id": 11,
           "nombre": "Letras Corpóreas",
           "descripcion": "Letras 3D para fachadas y interiores.",
-          "imagen": "img/letras_corporeas.jpg",
+          "imagen": "img/letras_blanco.jpg",
+          "imagenes": {
+            "Blanco": "img/letras_blanco.jpg",
+            "Negro": "img/letras_negro.jpg",
+            "Plateado": "img/letras_plateado.jpg"
+          },
           "colores": ["Blanco", "Negro", "Plateado"],
           "tamanos": ["20cm", "30cm", "40cm"],
           "precios": {"20cm": 1500, "30cm": 2500, "40cm": 3500},
