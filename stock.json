@@ -11,7 +11,7 @@
           "descripcion": "Diseño divertido y colorido de Stitch, perfecto para habitaciones infantiles o espacios juveniles.",
           "imagen": "img/gigantostitch.jpg",
           "medidas": ["60x80cm"],
-          "precio": 80000,
+          "precios": [80000],
           "material": ["MDF (3mm)", "PVC espumado (5mm)", "Ploteado (3mm)"],
           "ploteado": true,
           "stock": 10
@@ -22,7 +22,7 @@
           "descripcion": "Impresión temática de Harry Styles, se puede personalizar con cualquier imagen o diseñ.",
           "imagen": "img/gigantoharry.jpg",
           "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
-          "precio": "A consultar",
+          "precios": ["A consultar", "A consultar", "A consultar", "A consultar"],
           "material": ["MDF", "PVC espumado"],
           "ploteado": true,
           "stock": 8
@@ -33,7 +33,7 @@
           "descripcion": "Potente diseño del increíble Hulk para decorar con estilo superheroico.",
           "imagen": "img/gigantohulk.jpg",
           "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
-          "precio": "A consultar",
+          "precios": ["A consultar", "A consultar", "A consultar", "A consultar"],
           "material": ["MDF", "PVC espumado"],
           "ploteado": true,
           "stock": 6
@@ -44,7 +44,7 @@
           "descripcion": "Diseño artístico de la Mona Gimenez",
           "imagen": "img/gigantolamona.jpg",
           "medidas": ["70x45cm"],
-          "precio": "67000",
+          "precios": [67000],
           "material": ["MDF (3mm)", "PVC espumado (3mm)", "Ploteado (3mm)"],
           "ploteado": true,
           "stock": 5
@@ -55,19 +55,18 @@
           "descripcion": "Homenaje al mejor futbolista del mundo",
           "imagen": "img/gigantomessi.jpg",
           "medidas": ["170x50cm"],
-          "precio": "100000",
+          "precios": [100000],
           "material": ["MDF (3mm)", "PVC espumado (9mm)"],
           "ploteado": true,
           "stock": 7
         },
-        
         {
           "id": 6,
           "nombre": "Gigantografía Unicornio",
           "descripcion": "Mágico diseño de unicornio, perfecto para crear ambientes de fantasía.",
           "imagen": "img/gigantounicornio.jpg",
           "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
-          "precio": "A consultar",
+          "precios": ["A consultar", "A consultar", "A consultar", "A consultar"],
           "material": ["MDF", "PVC espumado"],
           "ploteado": true,
           "stock": 9
@@ -78,7 +77,7 @@
           "descripcion": "Crea tu propia gigantografía con la imagen que desees. Totalmente personalizable.",
           "imagen": "img/gigantopersona.jpg",
           "medidas": ["170x50cm"],
-          "precio": "100000",
+          "precios": [100000],
           "material": ["MDF (9mm)", "PVC espumado (12mm)"],
           "ploteado": true,
           "stock": 15
@@ -97,7 +96,7 @@
           "imagen": "img/cartel1.jpg",
           "medidas": ["15x30cm"],
           "material": ["MDF (3mm)", "Madera de pino (5mm)"],
-          "precio": 12000,
+          "precios": [12000],
           "stock": 20
         },
         {
@@ -107,7 +106,7 @@
           "imagen": "img/cartel305.jpg",
           "medidas": ["15x30cm"],
           "material": ["MDF (5mm)", "Madera de pino (9mm)"],
-          "precio": "26000",
+          "precios": [26000],
           "stock": 12
         },
         {
@@ -116,7 +115,7 @@
           "descripcion": "Señalización para baños, diseño claro y profesional.",
           "imagen": "img/cartelbano.jpg",
           "medidas": ["20x20cm"],
-          "precio": "25000",
+          "precios": [25000],
           "stock": 25
         },
         {
@@ -125,7 +124,7 @@
           "descripcion": "Cartelería especializada para barberías y peluquerías.",
           "imagen": "img/cartelbarber.jpg",
           "medidas": ["40x60cm", "60x80cm", "80x120cm"],
-          "precio": "A consultar",
+          "precios": ["A consultar", "A consultar", "A consultar"],
           "stock": 8
         },
         {
@@ -134,7 +133,7 @@
           "descripcion": "Cartel modelo BBB, ideal para promociones y anuncios.",
           "imagen": "img/cartelBBB.jpg",
           "medidas": ["Personalizado"],
-          "precio": "A consultar",
+          "precios": ["A consultar"],
           "stock": 10
         },
         {
@@ -143,7 +142,7 @@
           "descripcion": "Diseño utilizado en promociones de NX",
           "imagen": "img/cartelcohete.jpg",
           "medidas": ["40x60cm", "60x90cm"],
-          "precio": "A consultar",
+          "precios": ["A consultar", "A consultar"],
           "stock": 6
         },
         {
@@ -152,7 +151,7 @@
           "descripcion": "Cartelería para jugueterías",
           "imagen": "img/carteljuguetes.jpg",
           "medidas": ["15x30cm"],
-          "precio": "7000",
+          "precios": [7000],
           "stock": 7
         },
         {
@@ -161,7 +160,7 @@
           "descripcion": "Cartel con iluminación LED, personalizable",
           "imagen": "img/cartel_luminoso.jpg",
           "medidas": ["50x70cm", "70x100cm", "100x140cm"],
-          "precio": "A consultar",
+          "precios": ["A consultar", "A consultar", "A consultar"],
           "stock": 5
         },
         {
@@ -170,7 +169,7 @@
           "descripcion": "Diseño utilizado en promociones de NX",
           "imagen": "img/cartelnx.jpg",
           "medidas": ["40x60cm", "60x90cm"],
-          "precio": "A consultar",
+          "precios": ["A consultar", "A consultar"],
           "stock": 9
         },
         {
@@ -180,7 +179,7 @@
           "imagen": "img/cartelwarning.jpg",
           "medidas": ["60x60cm"],
           "material": ["MDF (3mm)", "Pitado (9mm)", "Ploteado CRUD (12mm)"],
-          "precio": "60000",
+          "precios": [60000],
           "stock": 15
         },
         {
@@ -189,7 +188,7 @@
           "descripcion": "Señalización de zona WiFi disponible para tu negocio.",
           "imagen": "img/cartelwifi.jpg",
           "medidas": ["15x25cm"],
-          "precio": "17000",
+          "precios": [17000],
           "stock": 18
         }
       ]
@@ -205,9 +204,9 @@
           "descripcion": "Decoración con diseño de montaña para ambientes acogedores.",
           "imagen": "img/decomontana.jpg",
           "medidas": ["35x35cm", "60x60cm"],
+          "precios": [17000, 27000],
           "color": ["Original"],
           "material": ["MDF"],
-          "precio": 17000,
           "stock": 15
         },
         {
@@ -216,9 +215,9 @@
           "descripcion": "Diseño divertido de Bart Simpson para fans de la serie.",
           "imagen": "img/decobart.jpg",
           "medidas": ["30x30cm", "40x40cm"],
+          "precios": [12000, 12000],
           "color": ["Original"],
           "material": ["MDF"],
-          "precio": 12000,
           "stock": 10
         },
         {
@@ -227,9 +226,9 @@
           "descripcion": "Tierna decoración con motivo de gato, perfecta para amantes de los felinos.",
           "imagen": "img/decogato.jpg",
           "medidas": ["25x35cm", "35x50cm"],
+          "precios": [3200, 3200],
           "color": ["Negro", "Blanco", "Natural"],
           "material": ["MDF"],
-          "precio": 3200,
           "stock": 12
         },
         {
@@ -238,9 +237,9 @@
           "descripcion": "Diseño de Goku para fanáticos de Dragon Ball.",
           "imagen": "img/decogoku.jpg",
           "medidas": ["40x60cm", "60x90cm"],
+          "precios": [4200, 4200],
           "color": ["Original"],
           "material": ["Pintado", "Ploteado"],
-          "precio": 4200,
           "stock": 7
         },
         {
@@ -249,9 +248,9 @@
           "descripcion": "Diseño exclusivo Grut, moderno y minimalista.",
           "imagen": "img/decogrut.jpg",
           "medidas": ["25x45cm", "50x70cm"],
+          "precios": [25000, 25000],
           "color": ["Natural", "Negro"],
           "material": ["MDF"],
-          "precio": 25000,
           "stock": 6
         },
         {
@@ -260,10 +259,10 @@
           "imagen": "img/decomesaluzflotante.jpg",
           "descripcion": "Mesa de luz con diseño flotante, moderna y funcional.",
           "medidas": ["40x30x25cm"],
+          "precios": [8500],
           "color": ["Natural", "Blanco", "Negro"],
           "material": ["MDF"],
           "ploteadoOMaderaLisa": ["Ploteado", "Madera lisa"],
-          "precio": 8500,
           "stock": 5
         },
         {
@@ -271,10 +270,10 @@
           "nombre": "Percheros Capybara",
           "descripcion": "Percheros decorativos con forma de capybaras.",
           "imagen": "img/decoperchero.jpg",
-          "medidas": ["60x20cm", "80x25cm"],
+          "medidas": ["10cm, 15cm y 20cm"],
+          "precios": [17000],
           "color": ["Original"],
           "material": ["MDF"],
-          "precio": 17000,
           "stock": 9
         },
         {
@@ -283,9 +282,9 @@
           "descripcion": "Percheros con diseño circular y moderno.",
           "imagen": "img/decoperchero1.jpg",
           "medidas": ["10cm, 15cm y 20cm"],
+          "precios": [10000],
           "color": ["Natural", "Blanco", "Negro"],
           "material": ["MDF"],
-          "precio": 10000,
           "stock": 8
         },
         {
@@ -294,9 +293,9 @@
           "descripcion": "Articulo de decoración con diseño 1 UP",
           "imagen": "img/decoseta.jpg",
           "medidas": ["20x40cm"],
+          "precios": [15000],
           "color": ["Natural", "Blanco"],
           "material": ["MDF"],
-          "precio": 15000,
           "stock": 4
         },
         {
@@ -305,9 +304,9 @@
           "descripcion": "Elemento decorativo con diseño de árbol, ideal para ambientes naturales.",
           "imagen": "img/decoarbol.jpg",
           "medidas": ["50x50cm"],
+          "precios": [24000],
           "color": ["Natural", "Blanco", "Negro"],
           "material": ["MDF"],
-          "precio": 24000,
           "stock": 8
         }
       ]
