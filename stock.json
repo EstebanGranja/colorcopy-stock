@@ -10,9 +10,9 @@
           "nombre": "Gigantografía Stitch",
           "descripcion": "Diseño divertido y colorido de Stitch, perfecto para habitaciones infantiles o espacios juveniles.",
           "imagen": "img/gigantostitch.jpg",
-          "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
-          "precio": 5000,
-          "material": ["MDF", "PVC espumado"],
+          "medidas": ["60x80cm"],
+          "precio": 80000,
+          "material": ["MDF (3mm)", "PVC espumado (5mm)", "Ploteado (3mm)"],
           "ploteado": true,
           "stock": 10
         },
@@ -43,9 +43,9 @@
           "nombre": "Gigantografía La mona",
           "descripcion": "Diseño artístico de la Mona Gimenez",
           "imagen": "img/gigantolamona.jpg",
-          "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
-          "precio": "A consultar",
-          "material": ["MDF", "PVC espumado"],
+          "medidas": ["70x45cm"],
+          "precio": "67000",
+          "material": ["MDF (3mm)", "PVC espumado (3mm)", "Ploteado (3mm)"],
           "ploteado": true,
           "stock": 5
         },
@@ -54,9 +54,9 @@
           "nombre": "Gigantografía Messi",
           "descripcion": "Homenaje al mejor futbolista del mundo",
           "imagen": "img/gigantomessi.jpg",
-          "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
-          "precio": "A consultar",
-          "material": ["MDF", "PVC espumado"],
+          "medidas": ["170x50cm"],
+          "precio": "100000",
+          "material": ["MDF (3mm)", "PVC espumado (9mm)"],
           "ploteado": true,
           "stock": 7
         },
@@ -77,9 +77,9 @@
           "nombre": "Gigantografía Personalizada",
           "descripcion": "Crea tu propia gigantografía con la imagen que desees. Totalmente personalizable.",
           "imagen": "img/gigantopersona.jpg",
-          "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
-          "precio": "A consultar",
-          "material": ["MDF", "PVC espumado"],
+          "medidas": ["170x50cm"],
+          "precio": "100000",
+          "material": ["MDF (9mm)", "PVC espumado (12mm)"],
           "ploteado": true,
           "stock": 15
         }
@@ -95,8 +95,9 @@
           "nombre": "Cartel Simple",
           "descripcion": "Cartelería básica para negocios y casas, clara y visible",
           "imagen": "img/cartel1.jpg",
-          "medidas": ["30x40cm", "50x70cm", "70x100cm"],
-          "precio": 3000,
+          "medidas": ["15x30cm"],
+          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
+          "precio": 12000,
           "stock": 20
         },
         {
@@ -104,8 +105,9 @@
           "nombre": "Cartel Oficina",
           "descripcion": "Cartel modelo 305, diseño versátil para todo tipo de comercios y oficinas.",
           "imagen": "img/cartel305.jpg",
-          "medidas": ["30x40cm", "50x70cm", "70x100cm", "100x140cm"],
-          "precio": "A consultar",
+          "medidas": ["15x30cm"],
+          "material": ["MDF (5mm)", "Madera de pino (9mm)"],
+          "precio": "26000",
           "stock": 12
         },
         {
@@ -113,8 +115,8 @@
           "nombre": "Cartel Baño",
           "descripcion": "Señalización para baños, diseño claro y profesional.",
           "imagen": "img/cartelbano.jpg",
-          "medidas": ["15x20cm", "20x30cm"],
-          "precio": "A consultar",
+          "medidas": ["20x20cm"],
+          "precio": "25000",
           "stock": 25
         },
         {
@@ -131,7 +133,7 @@
           "nombre": "Cartel BBB",
           "descripcion": "Cartel modelo BBB, ideal para promociones y anuncios.",
           "imagen": "img/cartelBBB.jpg",
-          "medidas": ["50x70cm", "70x100cm"],
+          "medidas": ["Personalizado"],
           "precio": "A consultar",
           "stock": 10
         },
@@ -149,8 +151,8 @@
           "nombre": "Cartel Juguetes",
           "descripcion": "Cartelería para jugueterías",
           "imagen": "img/carteljuguetes.jpg",
-          "medidas": ["50x70cm", "70x100cm"],
-          "precio": "A consultar",
+          "medidas": ["15x30cm"],
+          "precio": "7000",
           "stock": 7
         },
         {
@@ -176,8 +178,9 @@
           "nombre": "Cartel Warning",
           "descripcion": "Cartel de advertencia, imagenes de referencia. ",
           "imagen": "img/cartelwarning.jpg",
-          "medidas": ["30x40cm", "40x60cm"],
-          "precio": "A consultar",
+          "medidas": ["60x60cm"],
+          "material": ["MDF (3mm)", "Pitado (9mm)", "Ploteado CRUD (12mm)"],
+          "precio": "60000",
           "stock": 15
         },
         {
@@ -185,8 +188,8 @@
           "nombre": "Cartel WiFi",
           "descripcion": "Señalización de zona WiFi disponible para tu negocio.",
           "imagen": "img/cartelwifi.jpg",
-          "medidas": ["20x30cm", "30x40cm"],
-          "precio": "A consultar",
+          "medidas": ["15x25cm"],
+          "precio": "17000",
           "stock": 18
         }
       ]
@@ -198,9 +201,9 @@
       "productos": [
         {
           "id": 19,
-          "nombre": "Deco Montaña"  ,
+          "nombre": "Decoración Montaña",
           "descripcion": "Decoración con diseño de montaña para ambientes acogedores.",
-          "imagen": "img/decobaby.jpg",
+          "imagen": "img/decomontana.jpg",
           "medidas": ["35x35cm", "60x60cm"],
           "color": ["Original"],
           "material": ["MDF"],
@@ -236,7 +239,7 @@
           "imagen": "img/decogoku.jpg",
           "medidas": ["40x60cm", "60x90cm"],
           "color": ["Original"],
-          "material": ["MDF", "PVC espumado"],
+          "material": ["Pintado", "Ploteado"],
           "precio": 4200,
           "stock": 7
         },
@@ -269,9 +272,9 @@
           "descripcion": "Percheros decorativos con forma de capybaras.",
           "imagen": "img/decoperchero.jpg",
           "medidas": ["60x20cm", "80x25cm"],
-          "color": ["Natural", "Blanco", "Negro"],
+          "color": ["Original"],
           "material": ["MDF"],
-          "precio": 5200,
+          "precio": 17000,
           "stock": 9
         },
         {
@@ -279,10 +282,10 @@
           "nombre": "Percheros Circulares",
           "descripcion": "Percheros con diseño circular y moderno.",
           "imagen": "img/decoperchero1.jpg",
-          "medidas": ["40x60cm", "60x80cm"],
-          "color": ["Original"],
-          "material": ["MDF", "PVC espumado"],
-          "precio": 4000,
+          "medidas": ["10cm, 15cm y 20cm"],
+          "color": ["Natural", "Blanco", "Negro"],
+          "material": ["MDF"],
+          "precio": 10000,
           "stock": 8
         },
         {
@@ -301,10 +304,10 @@
           "nombre": "Decoración Arbol",
           "descripcion": "Elemento decorativo con diseño de árbol, ideal para ambientes naturales.",
           "imagen": "img/decoarbol.jpg",
-          "medidas": ["40x60cm", "60x80cm"],
+          "medidas": ["50x50cm"],
           "color": ["Natural", "Blanco", "Negro"],
           "material": ["MDF"],
-          "precio": 4500,
+          "precio": 24000,
           "stock": 8
         }
       ]
