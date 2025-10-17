@@ -198,24 +198,24 @@
       "productos": [
         {
           "id": 19,
-          "nombre": "Decoración Arbol",
-          "descripcion": "Elemento decorativo con diseño de árbol, ideal para ambientes naturales.",
-          "imagen": "img/decoarbol.jpg",
-          "medidas": ["40x60cm", "60x80cm"],
-          "color": ["Natural", "Blanco", "Negro"],
+          "nombre": "Deco Montaña"  ,
+          "descripcion": "Decoración con diseño de montaña para ambientes acogedores.",
+          "imagen": "img/decobaby.jpg",
+          "medidas": ["35x35cm", "60x60cm"],
+          "color": ["Original"],
           "material": ["MDF"],
-          "precio": 4500,
-          "stock": 8
+          "precio": 17000,
+          "stock": 15
         },
         {
           "id": 20,
           "nombre": "Decoración Bart",
           "descripcion": "Diseño divertido de Bart Simpson para fans de la serie.",
           "imagen": "img/decobart.jpg",
-          "medidas": ["30x40cm", "40x60cm"],
-          "color": ["Multicolor"],
-          "material": ["MDF", "PVC espumado"],
-          "precio": 3800,
+          "medidas": ["30x30cm", "40x40cm"],
+          "color": ["Original"],
+          "material": ["MDF"],
+          "precio": 12000,
           "stock": 10
         },
         {
@@ -235,20 +235,20 @@
           "descripcion": "Diseño de Goku para fanáticos de Dragon Ball.",
           "imagen": "img/decogoku.jpg",
           "medidas": ["40x60cm", "60x90cm"],
-          "color": ["Multicolor"],
+          "color": ["Original"],
           "material": ["MDF", "PVC espumado"],
           "precio": 4200,
           "stock": 7
         },
         {
           "id": 23,
-          "nombre": "Decoración Grutus",
-          "descripcion": "Diseño exclusivo Grutus, moderno y minimalista.",
+          "nombre": "Decoración Grut",
+          "descripcion": "Diseño exclusivo Grut, moderno y minimalista.",
           "imagen": "img/decogrut.jpg",
-          "medidas": ["30x40cm", "50x70cm"],
+          "medidas": ["25x45cm", "50x70cm"],
           "color": ["Natural", "Negro"],
           "material": ["MDF"],
-          "precio": 3500,
+          "precio": 25000,
           "stock": 6
         },
         {
@@ -280,7 +280,7 @@
           "descripcion": "Percheros con diseño circular y moderno.",
           "imagen": "img/decoperchero1.jpg",
           "medidas": ["40x60cm", "60x80cm"],
-          "color": ["Multicolor"],
+          "color": ["Original"],
           "material": ["MDF", "PVC espumado"],
           "precio": 4000,
           "stock": 8
@@ -290,11 +290,22 @@
           "nombre": "Decoración 1 UP",
           "descripcion": "Articulo de decoración con diseño 1 UP",
           "imagen": "img/decoseta.jpg",
-          "medidas": ["Varios tamaños"],
+          "medidas": ["20x40cm"],
           "color": ["Natural", "Blanco"],
           "material": ["MDF"],
-          "precio": 6500,
+          "precio": 15000,
           "stock": 4
+        },
+        {
+          "id": 28,
+          "nombre": "Decoración Arbol",
+          "descripcion": "Elemento decorativo con diseño de árbol, ideal para ambientes naturales.",
+          "imagen": "img/decoarbol.jpg",
+          "medidas": ["40x60cm", "60x80cm"],
+          "color": ["Natural", "Blanco", "Negro"],
+          "material": ["MDF"],
+          "precio": 4500,
+          "stock": 8
         }
       ]
     }
