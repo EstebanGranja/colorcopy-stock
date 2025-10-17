@@ -18,8 +18,8 @@
         },
         {
           "id": 2,
-          "nombre": "Gigantografía Harry Potter",
-          "descripcion": "Impresión temática de Harry Potter, ideal para fans de la saga mágica.",
+          "nombre": "Gigantografía Harry Styles",
+          "descripcion": "Impresión temática de Harry Styles, se puede personalizar con cualquier imagen o diseñ.",
           "imagen": "img/gigantoharry.jpg",
           "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
           "precio": "A consultar",
@@ -40,8 +40,8 @@
         },
         {
           "id": 4,
-          "nombre": "Gigantografía Lamona",
-          "descripcion": "Diseño artístico exclusivo Lamona, perfecto para ambientes modernos.",
+          "nombre": "Gigantografía La mona",
+          "descripcion": "Diseño artístico de la Mona Gimenez",
           "imagen": "img/gigantolamona.jpg",
           "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
           "precio": "A consultar",
@@ -52,7 +52,7 @@
         {
           "id": 5,
           "nombre": "Gigantografía Messi",
-          "descripcion": "Homenaje al mejor futbolista del mundo, ideal para fanáticos del deporte.",
+          "descripcion": "Homenaje al mejor futbolista del mundo",
           "imagen": "img/gigantomessi.jpg",
           "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
           "precio": "A consultar",
@@ -60,19 +60,9 @@
           "ploteado": true,
           "stock": 7
         },
+        
         {
           "id": 6,
-          "nombre": "Gigantografía Personalizada",
-          "descripcion": "Crea tu propia gigantografía con la imagen que desees. Totalmente personalizable.",
-          "imagen": "img/gigantopersona.jpg",
-          "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
-          "precio": "A consultar",
-          "material": ["MDF", "PVC espumado"],
-          "ploteado": true,
-          "stock": 15
-        },
-        {
-          "id": 7,
           "nombre": "Gigantografía Unicornio",
           "descripcion": "Mágico diseño de unicornio, perfecto para crear ambientes de fantasía.",
           "imagen": "img/gigantounicornio.jpg",
@@ -81,6 +71,17 @@
           "material": ["MDF", "PVC espumado"],
           "ploteado": true,
           "stock": 9
+        },
+        {
+          "id": 7,
+          "nombre": "Gigantografía Personalizada",
+          "descripcion": "Crea tu propia gigantografía con la imagen que desees. Totalmente personalizable.",
+          "imagen": "img/gigantopersona.jpg",
+          "medidas": ["50x70cm", "70x100cm", "100x140cm", "140x200cm"],
+          "precio": "A consultar",
+          "material": ["MDF", "PVC espumado"],
+          "ploteado": true,
+          "stock": 15
         }
       ]
     },
@@ -92,7 +93,7 @@
         {
           "id": 8,
           "nombre": "Cartel Simple",
-          "descripcion": "Cartelería básica para negocios, clara y visible.",
+          "descripcion": "Cartelería básica para negocios y casas, clara y visible",
           "imagen": "img/cartel1.jpg",
           "medidas": ["30x40cm", "50x70cm", "70x100cm"],
           "precio": 3000,
@@ -100,8 +101,8 @@
         },
         {
           "id": 9,
-          "nombre": "Cartel 305",
-          "descripcion": "Cartel modelo 305, diseño versátil para todo tipo de comercios.",
+          "nombre": "Cartel Oficina",
+          "descripcion": "Cartel modelo 305, diseño versátil para todo tipo de comercios y oficinas.",
           "imagen": "img/cartel305.jpg",
           "medidas": ["30x40cm", "50x70cm", "70x100cm", "100x140cm"],
           "precio": "A consultar",
@@ -136,8 +137,8 @@
         },
         {
           "id": 13,
-          "nombre": "Cartel Cohete",
-          "descripcion": "Diseño llamativo con temática de cohete, perfecto para negocios innovadores.",
+          "nombre": "Cartel Cohete NX",
+          "descripcion": "Diseño utilizado en promociones de NX",
           "imagen": "img/cartelcohete.jpg",
           "medidas": ["40x60cm", "60x90cm"],
           "precio": "A consultar",
@@ -146,7 +147,7 @@
         {
           "id": 14,
           "nombre": "Cartel Juguetes",
-          "descripcion": "Cartelería para jugueterías, colorido y atractivo.",
+          "descripcion": "Cartelería para jugueterías",
           "imagen": "img/carteljuguetes.jpg",
           "medidas": ["50x70cm", "70x100cm"],
           "precio": "A consultar",
@@ -155,7 +156,7 @@
         {
           "id": 15,
           "nombre": "Cartel Luminoso",
-          "descripcion": "Cartel con iluminación LED para mayor visibilidad nocturna.",
+          "descripcion": "Cartel con iluminación LED, personalizable",
           "imagen": "img/cartel_luminoso.jpg",
           "medidas": ["50x70cm", "70x100cm", "100x140cm"],
           "precio": "A consultar",
@@ -164,7 +165,7 @@
         {
           "id": 16,
           "nombre": "Cartel NX",
-          "descripcion": "Modelo NX con diseño moderno y minimalista.",
+          "descripcion": "Diseño utilizado en promociones de NX",
           "imagen": "img/cartelnx.jpg",
           "medidas": ["40x60cm", "60x90cm"],
           "precio": "A consultar",
@@ -173,7 +174,7 @@
         {
           "id": 17,
           "nombre": "Cartel Warning",
-          "descripcion": "Cartel de advertencia o precaución para espacios que requieren señalización de seguridad.",
+          "descripcion": "Cartel de advertencia, imagenes de referencia. ",
           "imagen": "img/cartelwarning.jpg",
           "medidas": ["30x40cm", "40x60cm"],
           "precio": "A consultar",
@@ -243,7 +244,7 @@
           "id": 23,
           "nombre": "Decoración Grutus",
           "descripcion": "Diseño exclusivo Grutus, moderno y minimalista.",
-          "imagen": "img/decogrutus.jpg",
+          "imagen": "img/decogrut.jpg",
           "medidas": ["30x40cm", "50x70cm"],
           "color": ["Natural", "Negro"],
           "material": ["MDF"],
@@ -264,8 +265,8 @@
         },
         {
           "id": 25,
-          "nombre": "Decoración Perchero",
-          "descripcion": "Perchero decorativo funcional y estético.",
+          "nombre": "Percheros Capybara",
+          "descripcion": "Percheros decorativos con forma de capybaras.",
           "imagen": "img/decoperchero.jpg",
           "medidas": ["60x20cm", "80x25cm"],
           "color": ["Natural", "Blanco", "Negro"],
@@ -275,8 +276,8 @@
         },
         {
           "id": 26,
-          "nombre": "Decoración Chicas Superpoderosas",
-          "descripcion": "Decoración con las icónicas Chicas Superpoderosas.",
+          "nombre": "Percheros Circulares",
+          "descripcion": "Percheros con diseño circular y moderno.",
           "imagen": "img/decoperchero1.jpg",
           "medidas": ["40x60cm", "60x80cm"],
           "color": ["Multicolor"],
@@ -286,86 +287,14 @@
         },
         {
           "id": 27,
-          "nombre": "Decoración Set A",
-          "descripcion": "Set decorativo completo para personalizar tu espacio.",
+          "nombre": "Decoración 1 UP",
+          "descripcion": "Articulo de decoración con diseño 1 UP",
           "imagen": "img/decoseta.jpg",
           "medidas": ["Varios tamaños"],
           "color": ["Natural", "Blanco"],
           "material": ["MDF"],
           "precio": 6500,
           "stock": 4
-        },
-        {
-          "id": 28,
-          "nombre": "Mueble Bano",
-          "descripcion": "Mueble organizador para baño, práctico y estético.",
-          "imagen": "img/mueblebano.jpg",
-          "medidas": ["60x40x80cm", "80x45x90cm"],
-          "color": ["Natural", "Blanco", "Negro"],
-          "material": ["MDF"],
-          "ploteadoOMaderaLisa": ["Ploteado", "Madera lisa"],
-          "precio": 12000,
-          "stock": 3
-        },
-        {
-          "id": 29,
-          "nombre": "Mueble Barber",
-          "descripcion": "Mueble especializado para barberías, funcional y con estilo.",
-          "imagen": "img/mueblebarber.jpg",
-          "medidas": ["100x50x90cm"],
-          "color": ["Natural", "Negro"],
-          "material": ["MDF"],
-          "ploteadoOMaderaLisa": ["Ploteado", "Madera lisa"],
-          "precio": 18000,
-          "stock": 2
-        },
-        {
-          "id": 30,
-          "nombre": "Mueble Cohete",
-          "descripcion": "Mueble infantil con diseño de cohete, perfecto para cuartos de niños.",
-          "imagen": "img/mueblecohete.jpg",
-          "medidas": ["50x40x120cm"],
-          "color": ["Multicolor"],
-          "material": ["MDF"],
-          "ploteadoOMaderaLisa": ["Ploteado", "Madera lisa"],
-          "precio": 15000,
-          "stock": 4
-        },
-        {
-          "id": 31,
-          "nombre": "Mueble Juguetes",
-          "descripcion": "Organizador de juguetes con compartimentos, ideal para mantener el orden.",
-          "imagen": "img/mueblejuguetes.jpg",
-          "medidas": ["80x40x60cm", "100x45x70cm"],
-          "color": ["Natural", "Blanco", "Multicolor"],
-          "material": ["MDF"],
-          "ploteadoOMaderaLisa": ["Ploteado", "Madera lisa"],
-          "precio": 13500,
-          "stock": 5
-        },
-        {
-          "id": 32,
-          "nombre": "Mueble NX",
-          "descripcion": "Mueble modelo NX, versátil y moderno para cualquier espacio.",
-          "imagen": "img/mueblenx.jpg",
-          "medidas": ["80x40x75cm"],
-          "color": ["Natural", "Negro", "Blanco"],
-          "material": ["MDF"],
-          "ploteadoOMaderaLisa": ["Ploteado", "Madera lisa"],
-          "precio": 14000,
-          "stock": 3
-        },
-        {
-          "id": 33,
-          "nombre": "Mueble Personalizado",
-          "descripcion": "Mueble completamente personalizable según tus necesidades y estilo.",
-          "imagen": "img/personalizado.jpg",
-          "medidas": ["A medida"],
-          "color": ["A elección"],
-          "material": ["MDF"],
-          "ploteadoOMaderaLisa": ["Ploteado", "Madera lisa"],
-          "precio": "A consultar",
-          "stock": 10
         }
       ]
     }
