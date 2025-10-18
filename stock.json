@@ -121,7 +121,7 @@
         {
           "id": 16,
           "nombre": "Cartel Polyfan",
-          "descripcion": "Crea tu propio cartel de polyfan con el diseño que prefieras",
+          "descripcion": "Carteles de polyfan personalizables",
           "imagen": "img/polyfan.jpg",
           "medidas": ["Personalizado"],
           "precios": ["A consultar"],
