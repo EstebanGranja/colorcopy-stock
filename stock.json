@@ -221,19 +221,6 @@
           "stock": 6
         },
         {
-          "id": 24,
-          "nombre": "Mesa de Luz Flotante",
-          "imagen": "img/decomesaluzflotante.jpg",
-          "descripcion": "Mesa de luz con diseño flotante, moderna y funcional.",
-          "medidas": ["40x30x25cm"],
-          "precios": [8500],
-          "color": ["Natural", "Blanco", "Negro"],
-          "material": ["MDF"],
-          "acabado": ["Pintado", "Sin pintar"],
-          "tiempo_entrega": "Entrega inmediata",
-          "stock": 5
-        },
-        {
           "id": 25,
           "nombre": "Percheros Capybara",
           "descripcion": "Percheros decorativos con forma de capybaras.",
