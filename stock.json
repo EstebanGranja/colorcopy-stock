@@ -13,7 +13,6 @@
           "medidas": ["60x80cm"],
           "precios": [80000],
           "material": ["MDF (3mm)", "PVC espumado (5mm)", "Ploteado (3mm)"],
-          "ploteado": true,
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 10
         },
@@ -25,7 +24,6 @@
           "medidas": ["70x45cm"],
           "precios": [67000],
           "material": ["MDF (3mm)", "PVC espumado (3mm)", "Ploteado (3mm)"],
-          "ploteado": true,
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 5
         },
@@ -37,7 +35,6 @@
           "medidas": ["170x50cm"],
           "precios": [100000],
           "material": ["MDF (3mm)", "PVC espumado (9mm)"],
-          "ploteado": true,
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 7
         },
@@ -49,7 +46,6 @@
           "medidas": ["170x50cm"],
           "precios": [100000],
           "material": ["MDF (9mm)", "PVC espumado (12mm)"],
-          "ploteado": true,
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 15
         }
