@@ -12,7 +12,7 @@
           "imagen": "img/gigantostitch.jpg",
           "medidas": ["60x80cm"],
           "precios": [80000],
-          "material": ["MDF (3mm)", "PVC espumado (5mm)", "Ploteado (3mm)"],
+          "material": ["MDF (3mm)", "PVC espumado (5mm)"],
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 10
         },
@@ -23,7 +23,7 @@
           "imagen": "img/gigantolamona.jpg",
           "medidas": ["70x45cm"],
           "precios": [67000],
-          "material": ["MDF (3mm)", "PVC espumado (3mm)", "Ploteado (3mm)"],
+          "material": ["MDF (3mm)", "PVC espumado (3mm)"],
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 5
         },
@@ -188,7 +188,7 @@
           "descripcion": "Tierna decoración con motivo de gato, perfecta para amantes de los felinos.",
           "imagen": "img/decogato.jpg",
           "medidas": ["25x35cm", "35x50cm"],
-          "precios": [3200, 3200],
+          "precios": [12000],
           "color": ["Negro", "Blanco", "Natural"],
           "material": ["MDF"],
           "acabado": ["Pintado", "Sin pintar"],
@@ -198,7 +198,7 @@
         {
           "id": 22,
           "nombre": "Decoración Goku",
-          "descripcion": "Diseño de Goku para fanáticos de Dragon Ball.",
+          "descripcion": "Diseño de Goku con iluminacion LED",
           "imagen": "img/decogoku.jpg",
           "medidas": ["40x60cm", "60x90cm"],
           "precios": [4200, 4200],
