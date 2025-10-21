@@ -30,11 +30,11 @@
         {
           "id": 5,
           "nombre": "Gigantografía Messi",
-          "descripcion": "Homenaje al mejor futbolista del mundo",
+          "descripcion": "Homenaje al mejor jugador del mundo",
           "imagen": "img/gigantomessi.jpg",
           "medidas": ["170x50cm"],
           "precios": [100000],
-          "material": ["MDF (3mm)", "PVC espumado (9mm)"],
+          "material": ["MDF (3mm)", "PVC espumado (3mm)"],
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 7
         },
@@ -45,7 +45,7 @@
           "imagen": "img/gigantopersona.jpg",
           "medidas": ["170x50cm"],
           "precios": [100000],
-          "material": ["MDF (9mm)", "PVC espumado (12mm)"],
+          "material": ["MDF (12mm)", "PVC espumado (3mm)"],
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 15
         }
@@ -62,7 +62,7 @@
           "descripcion": "Cartelería básica para negocios y casas, clara y visible",
           "imagen": "img/cartel1.jpg",
           "medidas": ["15x30cm"],
-          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
+          "material": ["MDF (3mm)", "Madera de pino (12mm)"],
           "precios": [12000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 20
@@ -73,7 +73,7 @@
           "descripcion": "Cartel modelo 305, diseño versátil para todo tipo de comercios y oficinas.",
           "imagen": "img/cartel305.jpg",
           "medidas": ["15x30cm"],
-          "material": ["MDF (5mm)", "Madera de pino (9mm)"],
+          "material": ["MDF (5mm)", "Madera de pino (12mm)"],
           "precios": [26000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 12
@@ -84,7 +84,7 @@
           "descripcion": "Señalización para baños, diseño claro y profesional.",
           "imagen": "img/cartelbano.jpg",
           "medidas": ["20x20cm"],
-          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
+          "material": ["MDF (3mm)", "Madera de pino (12mm)"],
           "precios": [25000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 25
@@ -95,7 +95,7 @@
           "descripcion": "Cartel modelo BBB, ideal para promociones y anuncios.",
           "imagen": "img/cartelBBB.jpg",
           "medidas": ["Personalizado"],
-          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
+          "material": ["MDF (3mm)", "Madera de pino (12mm)"],
           "precios": ["A consultar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 10
@@ -139,7 +139,7 @@
           "medidas": ["60x60cm"],
           "material": ["MDF (3mm)", "Madera de pino (5mm)"],
           "precios": [60000],
-          "tiempo_entrega": "Entrega inmediata",
+          "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 15
         },
         {
@@ -167,9 +167,8 @@
           "imagen": "img/decomontana.jpg",
           "medidas": ["35x35cm", "60x60cm"],
           "precios": [17000, 27000],
-          "color": ["Original"],
           "material": ["MDF"],
-          "acabado": ["Pintado", "Sin pintar"],
+          "acabado": ["Pintado (negro)", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 15
         },
@@ -180,9 +179,8 @@
           "imagen": "img/decobart.jpg",
           "medidas": ["30x30cm", "40x40cm"],
           "precios": [12000, 12000],
-          "color": ["Original"],
           "material": ["MDF"],
-          "acabado": ["Pintado", "Sin pintar"],
+          "acabado": ["Pintado (negro)", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 10
         },
@@ -193,9 +191,8 @@
           "imagen": "img/decogato.jpg",
           "medidas": ["25x35cm", "35x50cm"],
           "precios": [12000],
-          "color": ["Negro", "Blanco", "Natural"],
           "material": ["MDF"],
-          "acabado": ["Pintado", "Sin pintar"],
+          "acabado": ["Pintado (negro)", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 12
         },
@@ -206,7 +203,6 @@
           "imagen": "img/decogoku.jpg",
           "medidas": ["40x60cm", "60x90cm"],
           "precios": [4200, 4200],
-          "color": ["Original"],
           "material": ["Pintado", "Ploteado"],
           "proximamente": true,
           "stock": 7
@@ -218,9 +214,8 @@
           "imagen": "img/decogrut.jpg",
           "medidas": ["25x45cm", "50x70cm"],
           "precios": [25000, 25000],
-          "color": ["Negro"],
           "material": ["MDF"],
-          "acabado": ["Pintado", "Sin pintar"],
+          "acabado": ["Pintado (negro)", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 6
         },
@@ -231,7 +226,6 @@
           "imagen": "img/decoperchero.jpg",
           "medidas": ["10cm, 15cm y 20cm"],
           "precios": [17000],
-          "color": ["Original"],
           "material": ["Madera de pino"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 9
@@ -243,9 +237,8 @@
           "imagen": "img/decoperchero1.jpg",
           "medidas": ["10cm, 15cm y 20cm"],
           "precios": [10000],
-          "color": ["Natural", "Blanco", "Negro"],
           "material": ["Madera de pino"],
-          "acabado": ["Pintado", "Sin pintar"],
+          "acabado": ["Pintado (negro)", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 8
         },
@@ -256,9 +249,8 @@
           "imagen": "img/decoseta.jpg",
           "medidas": ["20x40cm"],
           "precios": [15000],
-          "color": ["Natural", "Blanco"],
           "material": ["MDF"],
-          "acabado": ["Pintado", "Sin pintar"],
+          "acabado": ["Pintado (negro)", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 4
         },
@@ -269,9 +261,8 @@
           "imagen": "img/decoarbol.jpg",
           "medidas": ["50x50cm"],
           "precios": [24000],
-          "color": ["Natural", "Blanco", "Negro"],
           "material": ["MDF"],
-          "acabado": ["Pintado", "Sin pintar"],
+          "acabado": ["Pintado (negro)", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 8
         }
