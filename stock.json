@@ -84,6 +84,7 @@
           "descripcion": "Señalización para baños, diseño claro y profesional.",
           "imagen": "img/cartelbano.jpg",
           "medidas": ["20x20cm"],
+          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
           "precios": [25000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 25
@@ -94,6 +95,7 @@
           "descripcion": "Cartel modelo BBB, ideal para promociones y anuncios.",
           "imagen": "img/cartelBBB.jpg",
           "medidas": ["Personalizado"],
+          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
           "precios": ["A consultar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 10
@@ -104,6 +106,7 @@
           "descripcion": "Cartelería para jugueterías",
           "imagen": "img/carteljuguetes.jpg",
           "medidas": ["15x30cm"],
+          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
           "precios": [7000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 7
@@ -134,7 +137,7 @@
           "descripcion": "Cartel de advertencia, imagenes de referencia. ",
           "imagen": "img/cartelwarning.jpg",
           "medidas": ["60x60cm"],
-          "material": ["MDF (3mm)", "Pitado (9mm)", "Ploteado CRUD (12mm)"],
+          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
           "precios": [60000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 15
@@ -145,6 +148,7 @@
           "descripcion": "Señalización de zona WiFi disponible para tu negocio.",
           "imagen": "img/cartelwifi.jpg",
           "medidas": ["15x25cm"],
+          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
           "precios": [17000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 18
