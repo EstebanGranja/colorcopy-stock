@@ -214,7 +214,7 @@
           "imagen": "img/decogrut.jpg",
           "medidas": ["25x45cm", "50x70cm"],
           "precios": [25000, 25000],
-          "color": ["Natural", "Negro"],
+          "color": ["Negro"],
           "material": ["MDF"],
           "acabado": ["Pintado", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
