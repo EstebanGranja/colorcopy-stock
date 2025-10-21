@@ -12,7 +12,7 @@
           "imagen": "img/gigantostitch.jpg",
           "medidas": ["60x80cm"],
           "precios": [80000],
-          "material": ["MDF (3mm)", "PVC espumado (5mm)"],
+          "material": ["MDF (3mm)", "PVC espumado (3mm)"],
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 10
         },
@@ -233,7 +233,6 @@
           "precios": [17000],
           "color": ["Original"],
           "material": ["Madera de pino"],
-          "acabado": ["Pintado", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 9
         },
