@@ -17,6 +17,17 @@
           "stock": 10
         },
         {
+          "id": 3,
+          "nombre": "Gigantografía Oktoberfest",
+          "descripcion": "Panel decorativo temático con orificios para asomar el rostro y tomarse fotos divertidas. Disponible en cualquier diseño personalizado, ideal para eventos",
+          "imagen": "img/oktober.jpg",
+          "medidas": ["60x80cm"],
+          "precios": [90000],
+          "material": ["MDF (9mm)"],
+          "tiempo_entrega": "Entre 5 y 7 dias de demora",
+          "stock": 5
+        },
+        {
           "id": 5,
           "nombre": "Gigantografía Messi",
           "descripcion": "Homenaje al mejor jugador del mundo",
