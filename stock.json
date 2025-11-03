@@ -63,7 +63,7 @@
           "imagen": "img/cartellomito.jpg",
           "medidas": ["20x50cm"],
           "material": ["MDF (9mm)"],
-          "precios": [20000],
+          "precios": [50000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 30
         },
