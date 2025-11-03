@@ -57,6 +57,17 @@
           "stock": 20
         },
         {
+          "id": 11,
+          "nombre": "Cartel Lomitos",
+          "descripcion": "Carteles de neón para locales de comida y demás negocios",
+          "imagen": "img/cartellomito.jpg",
+          "medidas": ["20x50cm"],
+          "material": ["MDF (9mm)"],
+          "precios": [20000],
+          "tiempo_entrega": "Entrega inmediata",
+          "stock": 30
+        },
+        {
           "id": 9,
           "nombre": "Cartel Oficina",
           "descripcion": "Cartel modelo 305, diseño versátil para todo tipo de comercios y oficinas.",
