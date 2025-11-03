@@ -8,7 +8,7 @@
         {
           "id": 1,
           "nombre": "Gigantografía Stitch",
-          "descripcion": "Diseño divertido y colorido de Stitch, perfecto para habitaciones infantiles o espacios juveniles.",
+          "descripcion": "Diseño divertido y colorido de Stitch. Disponible para cualquier diseño o imágen personalizada",
           "imagen": "img/gigantostitch.jpg",
           "medidas": ["60x80cm"],
           "precios": [80000],
@@ -19,7 +19,7 @@
         {
           "id": 3,
           "nombre": "Gigantografía Oktoberfest",
-          "descripcion": "Panel decorativo temático con orificios para asomar el rostro y tomarse fotos divertidas. Disponible en cualquier diseño personalizado, ideal para eventos",
+          "descripcion": "Panel decorativo con orificios para asomar el rostro y tomarse fotos divertidas. Disponible en cualquier diseño personalizado",
           "imagen": "img/oktober.jpg",
           "medidas": ["170x100cm"],
           "precios": [90000],
@@ -30,7 +30,7 @@
         {
           "id": 5,
           "nombre": "Gigantografía Messi",
-          "descripcion": "Homenaje al mejor jugador del mundo",
+          "descripcion": "Homenaje al mejor jugador del mundo. Disponible en cualquier diseño o imágen personalizada",
           "imagen": "img/gigantomessi.jpg",
           "medidas": ["170x50cm"],
           "precios": [100000],
@@ -48,7 +48,7 @@
         {
           "id": 8,
           "nombre": "Cartel Simple",
-          "descripcion": "Cartelería básica para negocios y casas, clara y visible",
+          "descripcion": "Cartelería básica para negocios y casas, completamente personalizable",
           "imagen": "img/cartel1.jpg",
           "medidas": ["15x30cm"],
           "material": ["MDF (3mm)", "Madera de pino (12mm)"],
@@ -59,7 +59,7 @@
         {
           "id": 11,
           "nombre": "Cartel Lomitos",
-          "descripcion": "Carteles de neón para locales de comida y demás negocios",
+          "descripcion": "Carteles de neón para locales de comida y negocios",
           "imagen": "img/cartellomito.jpg",
           "medidas": ["20x50cm"],
           "material": ["MDF (9mm)"],
@@ -70,7 +70,7 @@
         {
           "id": 9,
           "nombre": "Cartel Oficina",
-          "descripcion": "Cartel modelo 305, diseño versátil para todo tipo de comercios y oficinas.",
+          "descripcion": "Carteles para oficinas y espacios de trabajo. Personalizable",
           "imagen": "img/cartel305.jpg",
           "medidas": ["15x30cm"],
           "material": ["MDF (5mm)", "Madera de pino (12mm)"],
@@ -81,7 +81,7 @@
         {
           "id": 10,
           "nombre": "Cartel Baño",
-          "descripcion": "Señalización para baños, diseño claro y profesional.",
+          "descripcion": "Señalización para baños, disponible en varios diseños",
           "imagen": "img/cartelbano.jpg",
           "medidas": ["20x20cm"],
           "material": ["MDF (3mm)", "Madera de pino (12mm)"],
@@ -92,7 +92,7 @@
         {
           "id": 12,
           "nombre": "Cartel BBB",
-          "descripcion": "Letras en madera, personalizable",
+          "descripcion": "Letras en madera, variedad de tamaños y diseños personalizables",
           "imagen": "img/cartelBBB.jpg",
           "medidas": ["Personalizado"],
           "material": ["MDF (3mm)", "Madera de pino (12mm)"],
@@ -134,7 +134,7 @@
         {
           "id": 17,
           "nombre": "Cartel Warning",
-          "descripcion": "Cartel de advertencia, imagenes de referencia. ",
+          "descripcion": "Cartel de advertencia, imagenes de referencia",
           "imagen": "img/cartelwarning.jpg",
           "medidas": ["60x60cm"],
           "material": ["MDF (3mm)", "Madera de pino (5mm)"],
@@ -145,7 +145,7 @@
         {
           "id": 18,
           "nombre": "Cartel WiFi",
-          "descripcion": "Señalización de zona WiFi disponible para tu negocio.",
+          "descripcion": "Señalización de zona WiFi disponible para tu negocio, consultar variedades de diseño",
           "imagen": "img/cartelwifi.jpg",
           "medidas": ["15x25cm"],
           "material": ["MDF (3mm)", "Madera de pino (5mm)"],
@@ -163,7 +163,7 @@
         {
           "id": 19,
           "nombre": "Decoración Montaña",
-          "descripcion": "Decoración con diseño de montaña para ambientes acogedores.",
+          "descripcion": "Decoración en MDF con diseño de montaña",
           "imagen": "img/decomontana.jpg",
           "medidas": ["35x35cm", "60x60cm"],
           "precios": [17000, 27000],
@@ -175,7 +175,7 @@
         {
           "id": 20,
           "nombre": "Decoración Bart",
-          "descripcion": "Diseño divertido de Bart Simpson para fans de la serie.",
+          "descripcion": "Diseño divertido de Bart Simpson para fans de la serie",
           "imagen": "img/decobart.jpg",
           "medidas": ["30x30cm", "40x40cm"],
           "precios": [12000, 12000],
@@ -187,7 +187,7 @@
         {
           "id": 21,
           "nombre": "Decoración Gato",
-          "descripcion": "Tierna decoración con motivo de gato, perfecta para amantes de los felinos.",
+          "descripcion": "Tierna decoración con motivo de gato, variedad de diseños disponibles",
           "imagen": "img/decogato.jpg",
           "medidas": ["25x35cm", "35x50cm"],
           "precios": [12000],
@@ -210,7 +210,7 @@
         {
           "id": 23,
           "nombre": "Decoración Grut",
-          "descripcion": "Diseño exclusivo Grut, moderno y minimalista.",
+          "descripcion": "Diseño exclusivo Grut, moderno y minimalista",
           "imagen": "img/decogrut.jpg",
           "medidas": ["25x45cm", "50x70cm"],
           "precios": [25000, 25000],
@@ -222,7 +222,7 @@
         {
           "id": 25,
           "nombre": "Percheros Capybara",
-          "descripcion": "Percheros decorativos con forma de capybaras.",
+          "descripcion": "Percheros decorativos con forma de capybaras",
           "imagen": "img/decoperchero.jpg",
           "medidas": ["10cm, 15cm y 20cm"],
           "precios": [17000],
@@ -233,7 +233,7 @@
         {
           "id": 26,
           "nombre": "Percheros Circulares",
-          "descripcion": "Percheros con diseño circular y moderno.",
+          "descripcion": "Percheros con diseño circular y moderno",
           "imagen": "img/decoperchero1.jpg",
           "medidas": ["10cm, 15cm y 20cm"],
           "precios": [10000],
@@ -257,7 +257,7 @@
         {
           "id": 28,
           "nombre": "Decoración Arbol",
-          "descripcion": "Elemento decorativo con diseño de árbol, ideal para ambientes naturales.",
+          "descripcion": "Elemento decorativo con diseño de árbol, variedad de diseños disponibles en MDF",
           "imagen": "img/decoarbol.jpg",
           "medidas": ["50x50cm"],
           "precios": [24000],
