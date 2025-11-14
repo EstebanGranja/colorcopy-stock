@@ -69,7 +69,7 @@
         },
         {
           "id": 9,
-          "nombre": "Cartel Oficina",
+          "nombre": "Cartel numeración",
           "descripcion": "Carteles para oficinas y espacios de trabajo. Personalizable",
           "imagen": "img/cartel305.jpg",
           "medidas": ["15x30cm"],
@@ -80,22 +80,22 @@
         },
         {
           "id": 10,
-          "nombre": "Cartel Baño",
+          "nombre": "Cartel señalador",
           "descripcion": "Señalización para baños, disponible en varios diseños",
           "imagen": "img/cartelbano.jpg",
           "medidas": ["20x20cm"],
-          "material": ["MDF (3mm)", "Madera de pino (12mm)"],
+          "material": ["MDF (5mm)", "Madera de pino (12mm)"],
           "precios": [25000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 25
         },
         {
           "id": 12,
-          "nombre": "Cartel BBB",
+          "nombre": "Cartel corporeo",
           "descripcion": "Letras en madera, variedad de tamaños y diseños personalizables",
           "imagen": "img/cartelBBB.jpg",
           "medidas": ["Personalizado"],
-          "material": ["MDF (3mm)", "Madera de pino (12mm)"],
+          "material": ["MDF (5mm)", "Madera de pino (12mm)"],
           "precios": ["Entre 5 y 7 dias de demora"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 10
@@ -133,11 +133,11 @@
         },
         {
           "id": 17,
-          "nombre": "Cartel Warning",
+          "nombre": "Cartel Logo",
           "descripcion": "Cartel de advertencia, imagenes de referencia",
           "imagen": "img/cartelwarning.jpg",
           "medidas": ["60x60cm"],
-          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
+          "material": ["MDF (5mm)", "Madera de pino (5mm)"],
           "precios": [60000],
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 15
