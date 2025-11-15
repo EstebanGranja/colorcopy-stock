@@ -18,7 +18,7 @@
         },
         {
           "id": 3,
-          "nombre": "Gigantografía Oktoberfest",
+          "nombre": "Panel Fotográfico",
           "descripcion": "Panel decorativo con orificios para asomar el rostro y tomarse fotos divertidas. Disponible en cualquier diseño personalizado",
           "imagen": "img/oktober.jpg",
           "medidas": ["170x100cm"],
@@ -29,12 +29,12 @@
         },
         {
           "id": 5,
-          "nombre": "Gigantografía Messi",
+          "nombre": "Gigantografía Personaje",
           "descripcion": "Homenaje al mejor jugador del mundo. Disponible en cualquier diseño o imágen personalizada",
           "imagen": "img/gigantomessi.jpg",
           "medidas": ["170x50cm"],
           "precios": [100000],
-          "material": ["MDF (3mm)", "PVC espumado (3mm)"],
+          "material": ["MDF (3mm)", "MDF (5mm)", "PVC espumado (3mm)"],
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 7
         }
