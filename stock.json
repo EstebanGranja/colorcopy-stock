@@ -126,7 +126,7 @@
           "nombre": "Cartel Polyfan",
           "descripcion": "Carteles de polyfan personalizables",
           "imagen": "img/polyfan.jpg",
-          "medidas": ["Polyfan (20mm)"],
+          "material": ["Polyfan (20mm)"],
           "precios": ["A consultar"],
           "stock": 20
         },
