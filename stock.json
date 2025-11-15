@@ -51,7 +51,7 @@
           "descripcion": "Cartelería básica para negocios y casas, completamente personalizable",
           "imagen": "img/cartel1.jpg",
           "medidas": ["15x30cm"],
-          "material": ["MDF (3mm)", "Madera de pino (12mm)"],
+          "material": ["MDF laminado grabado (3mm)", "Madera de pino (12mm)"],
           "precios": [12000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 20
@@ -73,7 +73,7 @@
           "descripcion": "Carteles para oficinas y espacios de trabajo. Personalizable",
           "imagen": "img/cartel305.jpg",
           "medidas": ["15x30cm"],
-          "material": ["MDF (5mm)", "Madera de pino (12mm)"],
+          "material": ["MDF (5mm) sobre MDF (12mm)", "MDF (5mm) sobre madera de pino (12mm)"],
           "precios": [26000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 12
@@ -95,7 +95,7 @@
           "descripcion": "Letras en madera, variedad de tamaños y diseños personalizables",
           "imagen": "img/cartelBBB.jpg",
           "medidas": ["Personalizado"],
-          "material": ["MDF (5mm)", "Madera de pino (12mm)"],
+          "material": ["MDF (5mm)", "MDF (9mm)", "MDF (12mm)", "Madera de pino (12mm)"],
           "precios": ["Entre 5 y 7 dias de demora"],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 10
@@ -126,9 +126,8 @@
           "nombre": "Cartel Polyfan",
           "descripcion": "Carteles de polyfan personalizables",
           "imagen": "img/polyfan.jpg",
-          "medidas": ["Personalizado"],
+          "medidas": ["Polyfan (20mm)"],
           "precios": ["A consultar"],
-          "proximamente": true,
           "stock": 20
         },
         {
