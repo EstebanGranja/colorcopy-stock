@@ -3,7 +3,7 @@
     {
       "id": "Gigantografias",
       "nombre": "Gigantografías",
-      "imagen": "img/gigantografia.jpg",
+      "imagen": "img/gigantostitch.jpg",
       "productos": [
         {
           "id": 1,
@@ -79,17 +79,6 @@
           "stock": 12
         },
         {
-          "id": 10,
-          "nombre": "Cartel señalador",
-          "descripcion": "Señalización para baños, disponible en varios diseños",
-          "imagen": "img/cartelbano.jpg",
-          "medidas": ["20x20cm"],
-          "material": ["MDF (5mm)", "Madera de pino (12mm)"],
-          "precios": [25000],
-          "tiempo_entrega": "Entrega inmediata",
-          "stock": 25
-        },
-        {
           "id": 12,
           "nombre": "Cartel corporeo",
           "descripcion": "Letras en madera, variedad de tamaños y diseños personalizables",
@@ -133,24 +122,13 @@
         {
           "id": 17,
           "nombre": "Cartel Logo",
-          "descripcion": "Cartel de advertencia, imagenes de referencia",
+          "descripcion": "Carteles señalizadores y decorativos con diferentes diseños disponibles",
           "imagen": "img/cartelwarning.jpg",
-          "medidas": ["60x60cm"],
-          "material": ["MDF (5mm)", "Madera de pino (5mm)"],
-          "precios": [60000],
-          "tiempo_entrega": "Entre 5 y 7 dias de demora",
-          "stock": 15
-        },
-        {
-          "id": 18,
-          "nombre": "Cartel WiFi",
-          "descripcion": "Señalización de zona WiFi disponible para tu negocio, consultar variedades de diseño",
-          "imagen": "img/cartelwifi.jpg",
-          "medidas": ["15x25cm"],
-          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
-          "precios": [17000],
+          "medidas": ["15x25cm", "20x20cm", "60x60cm"],
+          "material": ["MDF (3mm)", "MDF (5mm)", "Madera de pino (5mm)", "Madera de pino (12mm)"],
+          "precios": [17000, 25000, 60000],
           "tiempo_entrega": "Entrega inmediata",
-          "stock": 18
+          "stock": 15
         }
       ]
     },
