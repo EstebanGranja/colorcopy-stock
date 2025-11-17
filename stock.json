@@ -34,7 +34,7 @@
           "imagen": "img/gigantomessi.jpg",
           "medidas": ["170x50cm"],
           "precios": [100000],
-          "material": ["MDF (3mm)", "MDF (5mm)", "PVC espumado (3mm)"],
+          "material": ["MDF (3mm)", "MDF (9mm)", "PVC espumado (3mm)"],
           "tiempo_entrega": "Entre 5 y 7 dias de demora",
           "stock": 7
         }
@@ -61,9 +61,9 @@
           "nombre": "Cartel Logo",
           "descripcion": "Carteles con logos y diseños personalizados para negocios",
           "imagen": "img/cartelwarning.jpg",
-          "medidas": ["15x25cm", "20x20cm", "60x60cm"],
-          "material": ["MDF (3mm)", "MDF (5mm)", "Madera de pino (5mm)", "Madera de pino (12mm)"],
-          "precios": [17000, 25000, 60000],
+          "medidas": ["60x60cm"],
+          "material": ["MDF (5mm)", "MDF (9mm)"],
+          "precios": [70000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 15
         },
@@ -72,8 +72,8 @@
           "nombre": "Cartel Señalizador",
           "descripcion": "Carteles señalizadores y decorativos con diferentes diseños disponibles",
           "imagen": "img/cartelbano.jpg",
-          "medidas": ["15x25cm", "20x20cm", "60x60cm"],
-          "material": ["MDF (3mm)", "MDF (5mm)", "Madera de pino (5mm)", "Madera de pino (12mm)"],
+          "medidas": ["15x25cm", "20x20cm"],
+          "material": ["MDF (5mm)", "Madera de pino (5mm)"],
           "precios": [17000, 25000, 60000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 15
@@ -95,7 +95,7 @@
           "descripcion": "Carteles para oficinas y espacios de trabajo. Personalizable",
           "imagen": "img/cartel305.jpg",
           "medidas": ["15x30cm"],
-          "material": ["MDF (5mm) sobre MDF (12mm)", "MDF (5mm) sobre madera de pino (12mm)"],
+          "material": ["MDF (5mm) sobre MDF (12mm)", "MDF (5mm) sobre MDF (9mm)", "MDF (5mm) sobre madera de pino (12mm)"],
           "precios": [26000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 12
@@ -117,7 +117,7 @@
           "descripcion": "Cartelería para jugueterías",
           "imagen": "img/carteljuguetes.jpg",
           "medidas": ["15x30cm"],
-          "material": ["MDF (3mm)", "Madera de pino (5mm)"],
+          "material": ["MDF (3mm)", "MDF (5mm)"],
           "precios": [7000],
           "tiempo_entrega": "Entrega inmediata",
           "stock": 7
@@ -138,6 +138,7 @@
           "descripcion": "Carteles de polyfan personalizables",
           "imagen": "img/polyfan.jpg",
           "material": ["Polyfan (20mm)"],
+          "acabado": ["Pintado", "Sin pintar"],
           "precios": ["A consultar"],
           "stock": 20
         }
