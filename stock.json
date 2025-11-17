@@ -57,6 +57,17 @@
           "stock": 20
         },
         {
+          "id": 17,
+          "nombre": "Cartel Logo",
+          "descripcion": "Carteles señalizadores y decorativos con diferentes diseños disponibles",
+          "imagen": "img/cartelwarning.jpg",
+          "medidas": ["15x25cm", "20x20cm", "60x60cm"],
+          "material": ["MDF (3mm)", "MDF (5mm)", "Madera de pino (5mm)", "Madera de pino (12mm)"],
+          "precios": [17000, 25000, 60000],
+          "tiempo_entrega": "Entrega inmediata",
+          "stock": 15
+        },
+        {
           "id": 11,
           "nombre": "Cartel Lomitos",
           "descripcion": "Carteles de neón para locales de comida y negocios",
@@ -118,17 +129,6 @@
           "material": ["Polyfan (20mm)"],
           "precios": ["A consultar"],
           "stock": 20
-        },
-        {
-          "id": 17,
-          "nombre": "Cartel Logo",
-          "descripcion": "Carteles señalizadores y decorativos con diferentes diseños disponibles",
-          "imagen": "img/cartelwarning.jpg",
-          "medidas": ["15x25cm", "20x20cm", "60x60cm"],
-          "material": ["MDF (3mm)", "MDF (5mm)", "Madera de pino (5mm)", "Madera de pino (12mm)"],
-          "precios": [17000, 25000, 60000],
-          "tiempo_entrega": "Entrega inmediata",
-          "stock": 15
         }
       ]
     },
