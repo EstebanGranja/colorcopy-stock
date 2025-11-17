@@ -59,7 +59,7 @@
         {
           "id": 17,
           "nombre": "Cartel Logo",
-          "descripcion": "Carteles señalizadores y decorativos con diferentes diseños disponibles",
+          "descripcion": "Carteles con logos y diseños personalizados para negocios",
           "imagen": "img/cartelwarning.jpg",
           "medidas": ["15x25cm", "20x20cm", "60x60cm"],
           "material": ["MDF (3mm)", "MDF (5mm)", "Madera de pino (5mm)", "Madera de pino (12mm)"],
@@ -68,9 +68,20 @@
           "stock": 15
         },
         {
+          "id": 18,
+          "nombre": "Cartel Señalizador",
+          "descripcion": "Carteles señalizadores y decorativos con diferentes diseños disponibles",
+          "imagen": "img/cartelbano.jpg",
+          "medidas": ["15x25cm", "20x20cm", "60x60cm"],
+          "material": ["MDF (3mm)", "MDF (5mm)", "Madera de pino (5mm)", "Madera de pino (12mm)"],
+          "precios": [17000, 25000, 60000],
+          "tiempo_entrega": "Entrega inmediata",
+          "stock": 15
+        },
+        {
           "id": 11,
-          "nombre": "Cartel Lomitos",
-          "descripcion": "Carteles de neón para locales de comida y negocios",
+          "nombre": "Cartel para comercio",
+          "descripcion": "Carteles de neón para locales de comercio, personalizables",
           "imagen": "img/cartellomito.jpg",
           "medidas": ["20x50cm"],
           "material": ["MDF (9mm)"],
@@ -166,8 +177,8 @@
           "nombre": "Decoración Gato",
           "descripcion": "Tierna decoración con motivo de gato, variedad de diseños disponibles",
           "imagen": "img/decogato.jpg",
-          "medidas": ["25x35cm", "35x50cm"],
-          "precios": [12000],
+          "medidas": ["50x35cm"],
+          "precios": [18000],
           "material": ["MDF"],
           "acabado": ["Pintado (negro)", "Sin pintar"],
           "tiempo_entrega": "Entrega inmediata",
